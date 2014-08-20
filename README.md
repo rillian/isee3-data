@@ -8,6 +8,9 @@ project.
 Useful for testing telemetry parsers when there's no live stream
 available, or checking history.
 
+See [ISEE Notebook 18g](http://voyager.gsfc.nasa.gov/Library/ISEE_Notebook18g.pdf)
+for details on the telemetry format.
+
 Notes
 =====
 
